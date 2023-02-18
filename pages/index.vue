@@ -1,5 +1,10 @@
 <template>
-  <div>lovc</div>
+  <div class="container">
+    <Hero />
+    <About />
+    <Expertise />
+    <Portfolio />
+  </div>
 </template>
 
 <script setup></script>
