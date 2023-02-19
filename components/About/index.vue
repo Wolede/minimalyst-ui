@@ -1,7 +1,7 @@
 <template>
   <div id="about" class="py-28">
-    <p class="text-h2 mb-4 text-center">About</p>
-    <p class="text-subtitle-2">
+    <p class="text-h2 mb-4 text-center font-medium">About</p>
+    <p class="md:text-subtitle-2">
       We are a creative design agency, specializing in Brand Identity, Graphics,
       Illustrations, and Web Design and Development. We create beautiful,
       minimalist, timeless designs to meet our client's needs and exceed them.

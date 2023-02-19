@@ -5,6 +5,7 @@
 @layer base {
   html {
     font-family: 'Satoshi', sans-serif;
+    scroll-behavior: smooth;
   }
 }
 body * {
@@ -14,5 +15,8 @@ body * {
 @layer components {
   .btn {
     @apply bg-transparent text-white hover:bg-primary px-8 py-3 text-subtitle-2 border border-primary;
+  }
+  .fab {
+    @apply bg-transparent text-white p-2 rounded-full hover:bg-primary border border-primary
   }
 }

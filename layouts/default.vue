@@ -3,5 +3,6 @@
     <Header />
     <slot />
     <Footer />
+    <ScrollToTop />
   </div>
 </template>

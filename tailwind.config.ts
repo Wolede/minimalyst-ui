@@ -4,6 +4,8 @@ export default {
       colors: {
         primary: '#ef3b39',
         neutral: '#15161e',
+        gray: '#ffffffb3',
+        black: '#000000',
       },
     },
     fontFamily: {
